@@ -19,6 +19,9 @@ public class VisitingCard {
 	    vc.email="abc.bc@gmail.com";
 	    System.out.println(vc.coName);
 		
+	    
+	    System.out.println("hello moto");
+	    
 		}
 		
 	}
