@@ -5,8 +5,6 @@ public class SWITCH {
 		getMoth(Moth.MARCH);
 	}
 
-
-
 	public static void getMoth(Moth month) { 
 		switch (month){
 		case JANUARY:
@@ -24,9 +22,6 @@ public class SWITCH {
 
 		default:
 			System.out.println("not found ");
-
-
-
 
 		}
 	}
