@@ -14,6 +14,8 @@ public class Array_List {
 		System.out.println(a);
 		
 		System.out.println(a);
+		
+		System.out.println(a);
 	}
 	
 
