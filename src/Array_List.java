@@ -13,7 +13,7 @@ public class Array_List {
 		a.add("ashutosh6");
 		System.out.println(a);
 		
-		
+		System.out.println(a);
 	}
 	
 
